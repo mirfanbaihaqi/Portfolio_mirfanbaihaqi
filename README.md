@@ -34,10 +34,16 @@ This dataset has imbalance output. Its shown that 4136 are not churn and 1498 ar
 # [Project 3: Visualization Netflix Dataset](https://github.com/mirfanbaihaqi/Visualization_NetflixDataset)
 This is some of my visualization using Netflix dataset. There are several visualization that i made.
 * The Most Countries Contributor on Netflix
+![](themstcntry.png)
 * Top 10 Director Based on The Number of Titles
+![](top10drctr.png)
 * Rating Content Netflix
+![](ratingknten.png)
 * Total Films in Each Year
+![](totalfilmeachyear.png)
 * The Most Favorite Genre on Netlix
+![](themostfavgenre.png)
 * Top Actor TV Shows Based on Number of Title
+![](top10actor.png)
 
 
