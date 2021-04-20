@@ -31,6 +31,8 @@ Dividing the data into 80% training data and 20% testing data is very important.
 
 This dataset has imbalance output. Its shown that 4136 are not churn and 1498 are churn. To handle this case, i use SMOTE so the data will turn into balance data. By using minority class to oversampling the data, i got the balance data now.
 
+![](smote.png)
+
 # [Project 3: Visualization Netflix Dataset](https://github.com/mirfanbaihaqi/Visualization_NetflixDataset)
 This is some of my visualization using Netflix dataset. There are several visualization that i made.
 * The Most Countries Contributor on Netflix
