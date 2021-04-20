@@ -17,11 +17,11 @@ There are several important step that you have to do until you get the result.
 These are the result of both models that i used to predict the dataset.
 * Logistic Regression Classification Report
 
-![](https://github.com/mirfanbaihaqi/Portfolio_mirfanbaihaqi/blob/main/logreg%20matrix.png)
+![](/main/logreg%20matrix.png)
 
 * KNN Classification Report
 
-![](https://github.com/mirfanbaihaqi/Portfolio_mirfanbaihaqi/blob/main/logreg%20matrix.png)
+![](/main/logreg%20matrix.png)
 
 
 # [Project 2: Data Preprocessing](https://github.com/mirfanbaihaqi/Data_Preprocessing) 
